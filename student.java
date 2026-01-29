@@ -49,7 +49,7 @@ public class Student {
     public boolean holdActive() { return holdActive; }
     public double getGpa() { return this.gpa; }
     public int getGradYear() { return this.gradYear; }
-    /** Method
+    /** Method to get program of study
      * @return string list of program(s) of study, in order of first major, second major, minor
      */
     public String getProgramOfStudy() {
